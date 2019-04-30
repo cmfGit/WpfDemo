@@ -16,7 +16,7 @@
             <Rectangle x:Name="rectangle" RadiusX="0" RadiusY="0" Width="50" Height="50" MouseLeftButtonUp="UpLoadCaptrue_Click"
                            SnapsToDevicePixels="True" StrokeDashArray="3 3 3 3" StrokeThickness="1" Margin="5 0">
                 <Rectangle.Fill>
-                    <ImageBrush ImageSource="/Images/UpLoad.png" Opacity="0.3" Stretch="Fill" Viewport="0.25 0.25 0.5 0.5"/>
+                    <ImageBrush ImageSource="/WPFDemo;component/Images/UpLoad.png" Opacity="0.3" Stretch="Fill" Viewport="0.25 0.25 0.5 0.5"/>
                 </Rectangle.Fill>
                 <Rectangle.Style>
                     <Style TargetType="Rectangle">
